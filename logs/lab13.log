@@ -1,0 +1,8 @@
+[16:10:15] INFO  🚀 Test execution started
+[16:10:15] INFO  ▶ Suite started: Default Suite
+[16:10:20] INFO  🔵 Test started: failTestExample
+[16:10:20] ERROR 🔴 Test FAILED: failTestExample
+[16:10:25] INFO  🔵 Test started: testTextBoxForm
+[16:10:26] INFO  🟢 Test passed: testTextBoxForm
+[16:10:26] INFO  ✅ Suite finished: Default Suite
+[16:10:26] INFO  🏁 Test execution finished
